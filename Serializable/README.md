@@ -3,8 +3,9 @@ Can save objects to a file and then later can reopen the file to read the saved 
 
 #Installation
 Run `javac Main.java` to compile the program. Then simply execute `java 
-Main` to run the file and follow onscreen instructions. It will execute 
-only once so run the file multiple times for continuous usage.
+Main` to run the file and follow onscreen instructions. The program will run 
+multiple times until the user decides to choose the quit option or forcibly
+shuts down the program
 
 #Files
 #####Game `(Game.java)`
